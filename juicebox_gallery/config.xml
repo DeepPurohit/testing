@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="CLN"
+	backgroundColor="rgba(0,0,0,1)"
+
+>
+  <image imageURL="images/Untitled design-min.jpg"
+	thumbURL="thumbs/Untitled design-min.jpg"
+	linkURL="images/Untitled design-min.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Praneet\Downloads\Untitled design-min.jpg">
+    <title><![CDATA[aaa]]></title>
+    <caption><![CDATA[khdy]]></caption>
+  </image>
+  <image imageURL="images/profile.jpg"
+	thumbURL="thumbs/profile.jpg"
+	linkURL="images/profile.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Praneet\Downloads\profile.jpg">
+    <title><![CDATA[profile]]></title>
+    <caption><![CDATA[kkk]]></caption>
+  </image>
+  <image imageURL="images/add.jpg"
+	thumbURL="thumbs/add.jpg"
+	linkURL="images/add.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Praneet\Downloads\add.jpg">
+    <title><![CDATA[add]]></title>
+    <caption><![CDATA[bgdt]]></caption>
+  </image>
+  <image imageURL="images/banner.jpg"
+	thumbURL="thumbs/banner.jpg"
+	linkURL="images/banner.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Praneet\Downloads\banner.jpg">
+    <title><![CDATA[banner]]></title>
+    <caption><![CDATA[uyrgt]]></caption>
+  </image>
+</juiceboxgallery>
